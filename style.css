@@ -1,0 +1,27 @@
+h1 {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
+
+#mimi {
+    display: flex;
+   justify-content: center;
+  }
+
+  #inputField{
+    border-radius: 5px;
+    height: 50px;
+    width: 600px;
+    border-color: blue;
+    
+  }
+
+  #return{
+    width: 100px;
+  }
+
+  #listContainer{
+    text-align: center;
+    color: white;
+  }
